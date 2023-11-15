@@ -1,0 +1,87 @@
+body {
+  overflow: hidden;
+   display: block;
+    background-color: rgb(50, 50, 85);
+    font-family: 'Arial', sans-serif; /* Added font family */
+}
+  h1 {
+    text-align: center;
+   color: rgb(50, 50, 85);
+   margin-left: 30px;
+   margin-top:  20px;
+   font-weight: bold;
+}
+.paragraph{
+    color: rgb(106, 106, 124);
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: small;
+}
+.list {
+    color: rgb(106, 106, 124);
+    list-style-type: none;
+    line-height: 1.9em;
+    font-size: small;
+    margin-top: 5px;
+    margin-left: -10px;
+    
+    
+}
+.svg {
+ 
+}
+  .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  background-color: white;
+  margin-top: 100px;
+  margin-left: 350px;
+  width: 600px;
+  border-radius: 20px;
+  }
+  #email {
+    margin-left: 30px;
+    color: rgb(106, 106, 124);
+    font-size: small;
+    top: 10px;
+  }
+  #bottomer {
+   width: 250px; 
+   height: 30px;
+   margin-left: 30px;
+   margin-top: -10px;
+   border-radius: 5px;
+   border-width: 0.5px;
+   border-color: rgb(157, 157, 172);
+   border-top-style: none;
+   
+  }
+  .second {
+    width: 250px; 
+   height: 30px;
+   margin-left: 30px;
+   margin-top: 15px;
+   border-radius: 5px;
+   background-color: rgb(8, 8, 39);
+   border-style: none;
+   color: white;
+  }
+  .sideimage {
+    display: block;
+    width: auto;
+    align-items: flex-end;
+  }
+  .main  {
+    height: 365px;
+    width: auto;
+    margin-right: 20px;
+  }
+  .header {
+align-items: flex-start;
+  }
+
+  
+  
+  
